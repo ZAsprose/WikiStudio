@@ -41,24 +41,6 @@
   padding-left: 3%;
   line-height: 1px;
   }
-ul.navbar {
-  list-style-type: none;
-  position: middle;
-  border-style: outset;
-  color: black;
-  background:#eff;
-  }
-ul.navbar li {
-  background: yellow;
-  margin: 0.5em 0;
-  padding: 0.3em;
-  /*border-right: 1em solid black */}
-/*ul.navbar a {
-  text-decoration: red }
-link {
-  color: blue }
-visited {
-  color: purple }*/
 address {
   text-align: right;
   padding-top: 5px;  
