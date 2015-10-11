@@ -3,9 +3,9 @@
  */
 
  body {
-  font-family: Georgia, "Times New Roman", Times, serif;
-background: #eaf;
-background: linear-gradient(33deg, #eaf, #fff);
+  	font-family: Georgia, "Times New Roman", Times, serif;
+	background: #eaf;
+	background: linear-gradient(33deg, #eaf, #fff);
   }
   h1 {
   font-family: Helvetica, Geneva, Arial,
